@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="931642a8-4c67-4586-b6eb-98fdc4e32aae" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a05BDBEZ6kkyNqN3vfUFfLD6oy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings custom-start-script="&#10;import sys;print('Python %s on %s' % (sys.version, sys.platform))&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])" module-name="Python_Challenges" sdk-home="C:\Users\elvis\AppData\Local\Programs\Python\Python38\python.exe">
+        <option name="myCustomStartScript" value="&#10;import sys;print('Python %s on %s' % (sys.version, sys.platform))&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])" />
+        <option name="mySdkHome" value="C:\Users\elvis\AppData\Local\Programs\Python\Python38\python.exe" />
+        <option name="myModuleName" value="Python_Challenges" />
+        <option name="myAddContentRoots" value="false" />
+        <option name="myAddSourceRoots" value="false" />
+      </console-settings>
+    </option>
+    <option name="myShowVariablesByDefault" value="false" />
+    <option name="myIpythonEnabled" value="false" />
+    <option name="myUseExistingConsole" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Challege_2_04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Challenges" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Challege_2_04.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Challege_2_04" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="931642a8-4c67-4586-b6eb-98fdc4e32aae" name="Default Changelist" comment="" />
+      <created>1585859532782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585859532782</updated>
+      <workItem from="1585859534522" duration="11578000" />
+      <workItem from="1586073439549" duration="5483000" />
+      <workItem from="1586078976200" duration="8256000" />
+      <workItem from="1586166418522" duration="4288000" />
+      <workItem from="1586335593785" duration="3982000" />
+      <workItem from="1586366830733" duration="326000" />
+      <workItem from="1586367702654" duration="5671000" />
+      <workItem from="1586516365957" duration="13429000" />
+      <workItem from="1586676265090" duration="5826000" />
+      <workItem from="1586694301899" duration="1612000" />
+      <workItem from="1586713038638" duration="90000" />
+      <workItem from="1586744142322" duration="378000" />
+      <workItem from="1586744551681" duration="320000" />
+      <workItem from="1586744901813" duration="699000" />
+      <workItem from="1587828849966" duration="327000" />
+      <workItem from="1587830828390" duration="46000" />
+      <workItem from="1587831705589" duration="801000" />
+      <workItem from="1587846558456" duration="687000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="27" key="#Plugins" timestamp="1587818317365">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="27" key="#Plugins/0.0.1366.738@0.0.1366.738" timestamp="1587818317365" />
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587822231468">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1587822231468" />
+    <state x="463" y="73" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1587822171670">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="73" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.738@0.0.1366.738" timestamp="1587822171670" />
+    <state x="417" y="130" key="EnvironmentVariablesDialog" timestamp="1587822209103">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="417" y="130" key="EnvironmentVariablesDialog/0.0.1366.738@0.0.1366.738" timestamp="1587822209103" />
+    <state x="463" y="134" key="FileChooserDialogImpl" timestamp="1587823243900">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="134" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1587823243900" />
+    <state x="184" y="22" key="SettingsEditor" timestamp="1587823311283">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="22" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1587823311283" />
+    <state x="184" y="26" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1587509520567" />
+    <state x="384" y="199" key="com.intellij.ide.util.TipDialog" timestamp="1587823209157">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="384" y="199" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1587823209157" />
+    <state x="384" y="207" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1587509469974" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1587821810568">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1587821810568" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
